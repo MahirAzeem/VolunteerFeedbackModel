@@ -110,7 +110,7 @@ prettytable==3.4.1
 prometheus-client==0.14.1
 prompt-toolkit==3.0.30
 proto-plus==1.22.1
-protobuf==3.19.2
+protobuf==3.20.1
 psutil==5.9.1
 pure-eval==0.2.2
 PyABSA==1.16.18
