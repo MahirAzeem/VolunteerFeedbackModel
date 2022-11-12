@@ -1,0 +1,1 @@
+[{"sentence": "the volunteer was amazing", "IOB": ["O", "B-ASP", "O", "O"], "tokens": ["the", "volunteer", "was", "amazing"], "aspect": ["volunteer"], "position": [[1]], "sentiment": ["Positive"], "probs": [[0.00015659592463634908, 6.181283242767677e-05, 0.9997815489768982]], "confidence": [0.9997815489768982]}]
