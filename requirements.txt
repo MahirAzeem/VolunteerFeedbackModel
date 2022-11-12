@@ -133,7 +133,7 @@ python-jwt==2.0.1
 pytorch-warmup==0.1.0
 pytz==2022.1
 pytz-deprecation-shim==0.1.0.post0
-pypiwin32==301
+pywin32==301
 pywinpty==2.0.6
 PyYAML==6.0
 pyzmq==23.2.0
