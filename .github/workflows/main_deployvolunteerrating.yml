@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'DeployVolunteerRating'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_46CDC68B0D4A4707B6822B704AC7C291 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8FB11C2C3195451CA3F7CFC7974CEF37 }}
